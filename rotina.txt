@@ -1,0 +1,18 @@
+1 - acordar
+2 - desligar o despertador
+3 - mandar msg de bom dia pra namorada hehe
+4 - levantar
+5 - andar até o banheiro
+    A luz está apaga?
+        sim
+            5.1 - acender a luz
+            5.2 - escovar
+            5.3 - apagar a luz
+        nao 
+            5.1 - escovar
+            5.2 - apagar a luz 
+6 - voltar para o quarto
+7 - Colocar roupa de academia
+8 - ir para a cozinha
+9 - comer 2 bananas
+10 - ir para academia
